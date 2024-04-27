@@ -1,6 +1,6 @@
 # Epidemic Simulation
 
-This Java package simulates the spread of a disease among individuals on a 2D-grid. It models the infection, recovery, and susceptibility of individuals over a specified number of time steps.
+This Java program simulates the spread of a disease among individuals on a 2D-grid. It models the infection, recovery, and susceptibility of individuals over a specified number of time steps.
 
 ## Instructions
 
